@@ -1,2 +1,2 @@
-# akash-singh.github.io
+# akashbeingzero.github.io
 My Portfolio
