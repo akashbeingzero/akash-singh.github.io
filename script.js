@@ -1,1 +1,1 @@
-Alert("Hello I'm Annoying Alert Box")
+alert("Hello I'm Annoying Alert Box")
